@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    margin: auto;
+
+}
+
